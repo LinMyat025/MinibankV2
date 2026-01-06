@@ -1,5 +1,3 @@
-#MiniBankV2
-
 MiniBank (File-Based Banking System in Python)
 
 A console-based mini banking application in Python that uses file handling for persistent storage, supports user registration, secure login, deposit, withdrawal, money transfer, account updates, and per-user transaction logging without using a database.
