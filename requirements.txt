@@ -1,0 +1,11 @@
+# MinibankV2 - A Python-based banking application
+# This application uses only Python standard library modules, so no external dependencies are required.
+# Python version: 3.x recommended
+
+# Standard Library Modules Used:
+# - pprint (used in minibank2.py for debugging)
+# - pathlib (used in fileIO.py for file path handling)
+# - datetime (used in utils.py for timestamp creation)
+# - string (used in utils.py for punctuation character checking)
+
+# No external packages required - this project uses only Python standard library.
